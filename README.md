@@ -29,7 +29,7 @@ Idioma: PT-BR
 
 ##
 
-![snake gif](https://github.com/Charms-444/Charms-444/blob/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://github.com/Charms-444/Charms-444/raw/output/github-contribution-grid-snake-dark.svg)
 
 <!--
 **Charms-444/Charms-444** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
