@@ -27,6 +27,10 @@ Idioma: PT-BR
   
 </div>
 
+##
+
+![snake gif](https://github.com/Charms-444/Charms-444/blob/output/github-contribution-grid-snake.svg)
+
 <!--
 **Charms-444/Charms-444** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
